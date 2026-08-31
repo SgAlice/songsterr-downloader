@@ -4,6 +4,23 @@
 </script>
 
 <main class="max-w-md mx-auto">
+  <aside
+    class="alert alert-warning mb-6 items-start text-left text-sm leading-relaxed shadow-sm"
+    role="note"
+    aria-label="Important usage notice"
+  >
+    <div>
+      <h2 class="font-bold">Important notice / 重要声明</h2>
+      <p>
+        This tool is provided for learning and personal communication only. Please delete any
+        downloaded files within 24 hours. Redistribution, public sharing, or any commercial use
+        is prohibited.
+      </p>
+      <p class="mt-2">
+        本工具仅限学习交流使用。下载的文件请在 24 小时内删除，禁止对外传播、公开分享或用于任何商业用途。
+      </p>
+    </div>
+  </aside>
   <Form />
   <div class="mb-14"></div>
   <SocialLinks />
