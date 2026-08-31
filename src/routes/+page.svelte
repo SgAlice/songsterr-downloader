@@ -15,6 +15,12 @@
         本工具仅限仅限YK所在微信正经琴群交流群内学习交流使用。下载的文件请在 24
         小时内删除，禁止对外传播、公开分享或用于任何商业用途。——YK
       </p>
+      <p class="mt-2">
+        This tool is exclusively for learning and discussion within the Weixin Zhengjing Qinqun
+        Jiaoliuqun that YK belongs to. Please delete all downloaded files within 24 hours.
+        Redistribution outside the group, public sharing, and any commercial use are prohibited.
+        —YK
+      </p>
     </div>
   </aside>
   <Form />
