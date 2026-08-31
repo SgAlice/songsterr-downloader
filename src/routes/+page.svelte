@@ -7,17 +7,13 @@
   <aside
     class="alert alert-warning mb-6 items-start text-left text-sm leading-relaxed shadow-sm"
     role="note"
-    aria-label="Important usage notice"
+    aria-label="使用免责声明"
   >
     <div>
-      <h2 class="font-bold">Important notice / 重要声明</h2>
+      <h2 class="font-bold">免责声明</h2>
       <p>
-        This tool is provided for learning and personal communication only. Please delete any
-        downloaded files within 24 hours. Redistribution, public sharing, or any commercial use
-        is prohibited.
-      </p>
-      <p class="mt-2">
-        本工具仅限学习交流使用。下载的文件请在 24 小时内删除，禁止对外传播、公开分享或用于任何商业用途。
+        本工具仅限仅限YK所在微信正经琴群交流群内学习交流使用。下载的文件请在 24
+        小时内删除，禁止对外传播、公开分享或用于任何商业用途。——YK
       </p>
     </div>
   </aside>
