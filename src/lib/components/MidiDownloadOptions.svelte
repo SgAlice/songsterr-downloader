@@ -79,7 +79,7 @@
   <button
     type="button"
     class="flex h-full items-center rounded border border-slate-500 px-2 text-slate-500 transition-colors hover:bg-slate-700 hover:text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-slate-500 disabled:cursor-not-allowed disabled:opacity-50"
-    aria-label="MIDI download options"
+    aria-label="MIDI 下载选项"
     aria-expanded={isPinnedOpen}
     aria-controls="midi-download-options-menu"
     {disabled}
@@ -102,7 +102,7 @@
           {disabled}
           class="checkbox checkbox-xs"
         />
-        Export separate named MIDI tracks
+        导出为独立且带名称的 MIDI 音轨
       </label>
     </li>
   </ul>

@@ -48,7 +48,7 @@
       const songMetadata = result?.data || {};
 
       if (!songMetadata) {
-        toastError('Error finding song data from URL 😭');
+        toastError('无法从链接获取曲谱信息 😭');
         console.error('result error', result);
         return;
       }
@@ -62,7 +62,7 @@
     for="songsterr-url"
     class="self-start text-sm font-medium text-gray-700 dark:text-gray-300 mb-1"
   >
-    Songsterr tab URL:</label
+    Songsterr 曲谱链接：</label
   >
   <input
     id="songsterr-url"
@@ -79,7 +79,7 @@
   <button
     disabled={!isValid}
     class="flex items-center px-4 py-1.5 text-sm font-semibold text-white bg-blue-500 border border-blue-600 rounded shadow hover:bg-blue-600 transition-colors cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed"
-    >Download</button
+    >下载</button
   >
 </form>
 

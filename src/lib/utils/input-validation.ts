@@ -4,9 +4,9 @@ export const SONGSTERR_URL_REGEX_PATTERN =
 export function setValidationMessage(event: Event): void {
   const input = event.target as HTMLInputElement;
   if (input.value === '') {
-    input.setCustomValidity('Please enter a valid tab URL.');
+    input.setCustomValidity('请输入有效的曲谱链接。');
   } else {
-    input.setCustomValidity('Please enter a valid Songsterr URL.');
+    input.setCustomValidity('请输入有效的 Songsterr 链接。');
   }
 
   input.reportValidity();

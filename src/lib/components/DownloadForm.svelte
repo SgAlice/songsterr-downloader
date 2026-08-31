@@ -59,12 +59,12 @@
       disabled={!!downloading}
       onclick={downloadTab}
     >
-      <GuitarIcon class="inline-block mr-1.5 text-base" />Download Guitar Pro
+      <GuitarIcon class="inline-block mr-1.5 text-base" />下载 Guitar Pro
       {#if downloading === 'tab'}
         <span class="progress-bar"></span>
       {/if}
     </button>
-    <span class="mb-1 font-light">or </span>
+    <span class="mb-1 font-light">或 </span>
     <div class="flex items-stretch gap-1">
       <button
         class="cursor-pointer relative flex items-center px-4 py-1.5 text-sm text-slate-600 border border-slate-500 rounded hover:bg-slate-700 hover:text-white transition-colors disabled:opacity-50 disabled:cursor-not-allowed overflow-hidden"
@@ -72,7 +72,7 @@
         onclick={downloadMidi}
       >
         <MidiIcon class="inline-block mr-1.5 text-base" />
-        Download MIDI
+        下载 MIDI
         {#if downloading === 'midi'}
           <span class="progress-bar"></span>
         {/if}
@@ -87,7 +87,7 @@
 
   <button
     class="cursor-pointer text-slate-400 font-light underline hover:text-slate-500 bg-transparent mb-1"
-    onclick={deselectSong}>Select another</button
+    onclick={deselectSong}>选择其他曲谱</button
   >
 </div>
 
