@@ -12,14 +12,14 @@
     <div>
       <h2 class="font-bold">免责声明</h2>
       <p>
-        本工具仅限仅限YK所在微信正经琴群交流群内学习交流使用。下载的文件请在 24
-        小时内删除，禁止对外传播、公开分享或用于任何商业用途。——YK
+        本工具仅限仅限卤蛋所在微信正经琴群交流群内学习交流使用。下载的文件请在 24
+        小时内删除，禁止对外传播、公开分享或用于任何商业用途。——卤蛋
       </p>
       <p class="mt-2">
         This tool is exclusively for learning and discussion within the Weixin Zhengjing Qinqun
-        Jiaoliuqun that YK belongs to. Please delete all downloaded files within 24 hours.
+        Jiaoliuqun that 卤蛋 belongs to. Please delete all downloaded files within 24 hours.
         Redistribution outside the group, public sharing, and any commercial use are prohibited.
-        —YK
+        —卤蛋
       </p>
     </div>
   </aside>
